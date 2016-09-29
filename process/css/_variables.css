@@ -1,0 +1,29 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,900';
+
+$font-main: Roboto, Helvetica, Arial, sans-serif;
+$font-weight-normal: 100;
+$font-weight-bold: 100;
+$font-weight-heavy: 100;
+
+$offwhite:      #FAFAFA;
+$darkblue:      #022933;
+$yellow:        #FFC400;
+$blue:          #4FC3F7;
+$green:         #69F0AE;
+$orange:        #E65100;
+$red:           #D14348;
+$purple:        #A70267;
+$cyan:          #00E5FF;
+$grey:          #FAFAFA;
+$sectionYellow: #FBC02D;
+
+
+$color-main: black;
+$color-background: #FAFAFA;
+
+$small: screen and (min-width: 600px);
+$medium: screen and (min-width: 900px);
+$large: screen and (min-width: 1200px);
+
+$container-default-width: 80%;
+$container-max-width: 1200px;

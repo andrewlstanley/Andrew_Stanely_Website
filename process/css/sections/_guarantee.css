@@ -1,0 +1,14 @@
+$color-background-guarantee: color($purple shade(25%));
+
+#guarantee {
+  color:$color-background;
+  font-size: 2rem;
+  background-color: $color-background-guarantee;
+
+  .imageheader {
+    @mixin backgroundImage '../images/backgrounds/Andrew_Stanley_Materials.png', auto, transparent, $color-background-guarantee, bottom, center;
+  }
+
+
+  box-shadow: 0px 0px 10px 2px #888888;
+}

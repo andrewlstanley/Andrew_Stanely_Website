@@ -1,0 +1,27 @@
+#history {
+
+
+  @media $large {
+    
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 25% auto;
+    min-height: 100vh;
+
+    .text-content {
+      width: 70%;
+
+    }
+  }
+
+  .headline {
+
+  }
+
+  .em {
+    color: $sectionYellow;
+  }
+
+
+
+}
